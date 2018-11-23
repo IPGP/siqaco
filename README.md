@@ -1,10 +1,10 @@
 # siqaco
 
-Pour éditer le cahier des charges, les sources Latex sont disponibles à l'adresse suivante : 
+Sources Latex pour le cahier des charges
 
 https://www.overleaf.com/13774526tjpqbdjvxzdk
 
-Pour éditer le dossier de conception :
+Sources Latex pour le dossier de conception :
 
 https://www.overleaf.com/16505439mmbhcgygrbjh
 
